@@ -20,8 +20,6 @@
 
 **10. Regras** Não atravessar paredes; coletar cartão para abrir a saída.
 
-**11. Estrutura do Projeto** Pastas /assets, /src e arquivo index.html.
-
 **12. Funcionalidades Mínimas** Movimentação, colisão e detecção de chegada no portal.
 
 **13. Melhorias Futuras** Gravidade zero e ranking global.
